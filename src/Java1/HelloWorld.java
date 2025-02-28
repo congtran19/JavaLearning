@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		Scanner scanner = new Scanner(System.in)
+		Scanner scanner = new Scanner(System.in);
 		int a = 6;
 		int b = 9;
 		int c = Math.max(a, b);
